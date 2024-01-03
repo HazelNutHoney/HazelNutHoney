@@ -9,10 +9,6 @@
 
 - 📫 How to reach me **hazelnutzhoney@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazelnuthoney&show_icons=true&locale=en" alt="hazelnuthoney" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazelnuthoney&" alt="hazelnuthoney" /></p>
