@@ -13,9 +13,9 @@
 
 <h2>✨ Current Projects</h2>
 
-- [Luna Browser]()
+- [Luna Browser](https://www.lunabrowser.com)
 
-- [Pastel Studio]()
+- [Pastel Studio](https://pastelstudio.net/)
 
 <h2>📪 How to reach me</h2>
-💌 **hazelnutzhoney@gmail.com**
+💌 <strong>hazelnutzhoney@gmail.com</strong>
