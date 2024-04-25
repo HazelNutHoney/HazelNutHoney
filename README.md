@@ -3,13 +3,13 @@
 <p align="left">I love to learn about new things, I currently am working on my own webbrowser and Game Engine!</p>
 <h2>🩷 Programming Languages I use</h2>
 
-- JavaScript/Typescript
+- JavaScript/Typescript 🩵
 
-- Python
+- Python 🤪
 
-- C#
+- C# 😁
 
-- Java
+- Java 🫤
 
 <h2>✨ Current Projects</h2>
 
