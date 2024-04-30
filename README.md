@@ -11,6 +11,10 @@
 
 - Java 🫤
 
+<h2>☕ Python Package Developer</h2>
+
+- https://pypi.org/user/Hazie/
+
 <h2>✨ Current Projects</h2>
 
 - [Luna Browser](https://www.lunabrowser.com)
