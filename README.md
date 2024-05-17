@@ -1,6 +1,6 @@
 <h1 align="center">Hiya 👋, I'm Hazel Nut</h1>
 <h3 align="center">A backend developer from the US</h3>
-<p align="left">I love to learn about new things, I currently am working on my own webbrowser and Game Engine!</p>
+<p align="left">A student, I love to learn about new things, I currently am working on my own webbrowser and Game Engine!</p>
 <h2>🩷 Programming Languages I use</h2>
 
 - JavaScript/Typescript 🩵
