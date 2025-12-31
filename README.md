@@ -13,12 +13,11 @@
   <br />
 
   <div class="pins">
-    <a href="https://github.com/HazelNutHoney/luna-browser">​
-      <img src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=hazelnuthoney&theme=sunset_dark&repo=Luna-Browser" width="48%"></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/HazelNutHoney/ore-ui-web-remastered">
-      <img src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=hazelnuthoney&theme=sunset_dark&repo=ore-ui-web-remastered" width="48%"></a>
-
+    <a href="https://github.com/HazelNutHoney/luna-browser"><img src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=hazelnuthoney&theme=sunset_dark&repo=Luna-Browser" width="48%"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/HazelNutHoney/ore-ui-web-remastered"><img src="https://github-readme-stats.tuhidulhossain.com/api/pin?username=hazelnuthoney&theme=sunset_dark&repo=ore-ui-web-remastered" width="48%"></a>
+    &nbsp;&nbsp;&nbsp;
   <!-- <br />
     <br />
   <a href="https://discord.com/users/1121275372881838080">
