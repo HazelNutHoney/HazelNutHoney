@@ -53,7 +53,7 @@
 
 <div>
   &nbsp;&nbsp;
-  <img align="absmiddle" src="https://raw.githubusercontent.com/HazelNutHoney/HazelNutHoney/refs/heads/main/discord.png" width="21px" />
+  <img align="absmiddle" src="https://raw.githubusercontent.com/HazelNutHoney/HazelNutHoney/refs/heads/main/discord.png" width="20px" />
   <strong>
     <a href="https://discord.com/users/1121275372881838080">@hazelnuthoney</a>
   </strong>
